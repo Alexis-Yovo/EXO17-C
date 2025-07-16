@@ -68,7 +68,7 @@ int est_sous_mot(mot sous_mot, mot src) {
 void main() {
     mot src = "polycopie";
     mot facteur_g = "poly";
-    mot facteur = "copi";
+    mot facteur = "copie";
     mot sous_mot = "co";
 
     mirroir(src, src);
